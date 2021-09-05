@@ -1,2 +1,3 @@
-# dotfiles
-Config files for all my things
+# DotFiles
+
+Repo for all my config files for various pieces of software
